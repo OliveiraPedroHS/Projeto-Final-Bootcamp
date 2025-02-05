@@ -1,0 +1,252 @@
+[{
+  "_id": {
+    "$oid": "679100ef62096ce3021dcc0a"
+  },
+  "nomeEmpresa": "Miguel Quaresma Photography",
+  "localidade": "Sintra",
+  "email": "MiguelQuaresma@gmail.com",
+  "telefone": "934030232",
+  "grupo": "grupo1",
+  "usuario": "Miguel Quaresma Photography",
+  "senha": "MiguelQuaresma",
+  "descricao": "Transformando momentos em memórias eternas, Miguel Quaresma Photography é sinônimo de criatividade, emoção e excelência. Com um olhar atento para os detalhes e uma paixão pela arte de contar histórias através da fotografia, Miguel oferece serviços que capturam a essência de cada instante.\n\nEspecializado em [adicionar especialidade, como casamentos, retratos, eventos, fotografia de paisagens, etc.], cada projeto é tratado com um toque único, refletindo a personalidade e os sonhos dos clientes. Acreditamos que cada clique é uma obra de arte, feita para ser admirada por toda a vida.\n\nDeixe-nos registrar a sua história. Com Miguel Quaresma Photography, suas memórias estarão sempre vivas.\n\n",
+  "termosAceitos": true
+},
+{
+  "_id": {
+    "$oid": "6791018262096ce3021dcc0b"
+  },
+  "nomeEmpresa": "José Macedo Fotografia",
+  "localidade": "Lisboa",
+  "email": "jose123@gmail.com",
+  "telefone": "914304293",
+  "grupo": "grupo1",
+  "usuario": "José Macedo Fotografia",
+  "senha": "Jose123",
+  "descricao": "A fotografia não é apenas uma arte, é uma forma de eternizar emoções. Em José Macedo Fotografia, cada imagem é capturada com paixão, dedicação e um olhar apurado para a beleza única de cada momento.\n\nCom experiência em [adicionar especialidade, como fotografia de casamentos, sessões de família, eventos ou retratos], José Macedo transforma instantes fugazes em recordações que duram para sempre. Cada projeto é conduzido com sensibilidade e criatividade, garantindo que cada detalhe conte a sua história.\n\nConfie em José Macedo Fotografia para registrar os momentos mais especiais da sua vida com qualidade, autenticidade e um toque artístico. Porque as melhores memórias merecem ser guardadas para sempre.",
+  "termosAceitos": true
+},
+{
+  "_id": {
+    "$oid": "679101c362096ce3021dcc0c"
+  },
+  "nomeEmpresa": "Manuel Pinto",
+  "localidade": "Lisboa",
+  "email": "ManuelPinto@gmail.com",
+  "telefone": "932049241",
+  "grupo": "grupo1",
+  "usuario": "Manuel Pinto",
+  "senha": "ManuelPinto",
+  "descricao": "Cada momento conta uma história, e em Manuel Pinto Fotografia, transformamos essas histórias em memórias inesquecíveis. Com um olhar criativo e uma abordagem personalizada, Manuel Pinto é especialista em capturar emoções autênticas e momentos únicos.\n\nSeja [adicionar especialidade, como casamentos, eventos, retratos ou sessões familiares], cada fotografia é trabalhada com paixão, atenção ao detalhe e uma visão artística que valoriza a essência de cada cliente.\n\nCom Manuel Pinto Fotografia, as suas recordações ganham vida em imagens que emocionam e inspiram. Porque a sua história merece ser registrada de forma única e intemporal.",
+  "termosAceitos": true
+},
+{
+  "_id": {
+    "$oid": "6791025d62096ce3021dcc0d"
+  },
+  "nomeEmpresa": "Quinta da Mata",
+  "localidade": "Sintra",
+  "email": "QuintadaMata@gmail.com",
+  "telefone": "965349104",
+  "grupo": "grupo2",
+  "usuario": "QuintaDaMata",
+  "senha": "QuintaDaMata",
+  "descricao": "A Quinta da Mata é um espaço de charme e sofisticação e, também, um solar do séc. XVII. A natureza é um elemento diferenciador, a frescura, as cores e os sons da montanha que, por sua vez, tornam cada momento intenso e único. A paisagem sobre a cidade de Chaves é a moldura que acompanha todo o evento. Num espaço com cinco séculos de vida, fica a certeza de que o vosso casamento é um momento que ficará para a história.\n\n",
+  "termosAceitos": true
+},
+{
+  "_id": {
+    "$oid": "679102c962096ce3021dcc0e"
+  },
+  "nomeEmpresa": "Quinta do Belo-Monte",
+  "localidade": "Sintra",
+  "email": "QuintadoBeloMonte@gmail.com",
+  "telefone": "943022495",
+  "grupo": "grupo2",
+  "usuario": "Quinta do Belo-Monte",
+  "senha": "QuintadoBeloMonte",
+  "descricao": "Paisagens verdejantes que vão além do que se vê, ambientes rústicos e espaços envolvidos pela natureza para celebrar todos os momentos da vossa celebração. É isto que procuravam? Pois encontraram! Quinta do Belo-Monte convida-vos a desfrutar de um dia inigualável.",
+  "termosAceitos": true
+},
+{
+  "_id": {
+    "$oid": "6791030562096ce3021dcc0f"
+  },
+  "nomeEmpresa": "Herdade Vale do Chafariz",
+  "localidade": "Lisboa",
+  "email": "HerdadeVale@gmail.com",
+  "telefone": "964394032",
+  "grupo": "grupo2",
+  "usuario": "Herdade Vale do Chafariz",
+  "senha": "HerdadeVale",
+  "descricao": "Natureza e tranquilidade é o que encontram na Herdade Vale do Chafariz, e pode-se converte no cenário perfeito que procuram para o vosso grande dia. Um espaço de beleza natural onde dar vida a momentos emocionantes. Querem conhecer esta deslumbrante herdade?",
+  "termosAceitos": true
+},
+{
+  "_id": {
+    "$oid": "6791035462096ce3021dcc10"
+  },
+  "nomeEmpresa": "Espuma de Hortelã Catering",
+  "localidade": "Lisboa",
+  "email": "EspumadeHortela@gmail.com",
+  "telefone": "920349230",
+  "grupo": "grupo3",
+  "usuario": "Espuma de Hortelã Catering",
+  "senha": "EspumadeHortela",
+  "descricao": "Na Espuma de Hortelã, transformamos os momentos mais especiais em experiências gastronómicas inesquecíveis. Seja para um casamento de sonho, um batizado emocionante ou outra ocasião memorável, estamos aqui para criar eventos que refletem o vosso estilo e encantam todos os sentidos.",
+  "termosAceitos": true
+},
+{
+  "_id": {
+    "$oid": "6791039462096ce3021dcc11"
+  },
+  "nomeEmpresa": "Catering Galhetas",
+  "localidade": "Sintra",
+  "email": "galhetas@gmail.com",
+  "telefone": "930414042",
+  "grupo": "grupo3",
+  "usuario": "Catering Galhetas",
+  "senha": "Galhetas123",
+  "descricao": "Catering Galhetas é uma empresa que aposta em tendências inovadoras e de excelência para vos oferecer o melhor da gastronomia portuguesa no dia do vosso casamento. Para isso, conta com uma equipa dinâmica, com grande experiência e comprometimento, que vos ajudará a surpreender e conquistar o paladar e o coração de todos os vossos convidados.",
+  "termosAceitos": true
+},
+{
+  "_id": {
+    "$oid": "679103e962096ce3021dcc12"
+  },
+  "nomeEmpresa": "Iguarias Sábias",
+  "localidade": "Sintra",
+  "email": "sabias@gmail.com",
+  "telefone": "923429232",
+  "grupo": "grupo3",
+  "usuario": "Iguarias Sábias",
+  "senha": "Sabias2025",
+  "descricao": "A Iguarias Sábias é uma empresa de catering formada por uma equipa jovem, dinâmica, qualificada e experiente. O seu principal objetivo é o de realizar cada evento de forma única e personalizada, oferecendo um resultado ajustado e adequado às necessidades dos noivos. Celebrem o vosso casamento com iguarias deliciosas e repletas de sabor, elaboradas por mãos sábias!",
+  "termosAceitos": true
+},
+{
+  "_id": {
+    "$oid": "6791042e62096ce3021dcc13"
+  },
+  "nomeEmpresa": "Data Feliz - Decor e Eventos",
+  "localidade": "Lisboa",
+  "email": "datafeliz@gmail.com",
+  "telefone": "943249852",
+  "grupo": "grupo4",
+  "usuario": "Data Feliz - Decor e Eventos",
+  "senha": "DataFeliz",
+  "descricao": "Consigam a decoração perfeita para o dia do vosso casamento com a magnífica ajuda da Data Feliz - Decor e Eventos. À vossa espera estará um equipa talentosa, experiente e atenta aos mais pequenos detalhes que irá cuidar de cada pormenor da decoração de todos os espaços do vosso casamento, superando sempre as vossas expetativas. Não percam mais tempo.",
+  "termosAceitos": true
+},
+{
+  "_id": {
+    "$oid": "6791046562096ce3021dcc14"
+  },
+  "nomeEmpresa": "Maria Clementina - Home & Flower",
+  "localidade": "Sintra",
+  "email": "clementina@gmail.com",
+  "telefone": "914320492",
+  "grupo": "grupo4",
+  "usuario": "Maria Clementina - Home & Flower",
+  "senha": "MariaClementina",
+  "descricao": "Maria Clementina - Home & Flower é sinónimo e garantia de decorações únicas e exclusivas para o dia do vosso casamento.\n\nÀ vossa espera estará uma equipa experiente, dedicada e muito talentosa que irá decorar todos os espaços do vosso grande dia com muito estilo, sofisticação e extremo bom gosto. Para isso, utiliza materiais de altíssima qualidade que podem ser agrupados de uma forma arrojada, clássica ou minimalista para ir ao encontro das vossas expetativas.",
+  "termosAceitos": true
+},
+{
+  "_id": {
+    "$oid": "6791058be5196ff4727998b0"
+  },
+  "nomeEmpresa": "7 Pingos D'Arte",
+  "localidade": "Lisboa",
+  "email": "7pingosdaarte@gmail.com",
+  "telefone": "913045961",
+  "grupo": "grupo4",
+  "usuario": "7 Pingos D'Arte",
+  "senha": "PingosArte",
+  "descricao": "A empresa 7 Pingos D'Arte irá proporcionar-vos as mais belas e distintas decorações no dia mais importante das vossas vidas. Todos os artigos usados na decoração dos espaços do vosso casamento são elaborados artesanalmente utilizando sempre os melhores materiais, desta forma a empresa garante um serviço exclusivo e original.\n\n",
+  "termosAceitos": true
+},
+{
+  "_id": {
+    "$oid": "679105e8e5196ff4727998b1"
+  },
+  "nomeEmpresa": "Ricardo Pereira band",
+  "localidade": "Sintra",
+  "email": "ricardopereira@gmail.com",
+  "telefone": "962392781",
+  "grupo": "grupo5",
+  "usuario": "Ricardo Pereira band",
+  "senha": "RicardoPereira",
+  "descricao": "O casamento é sem dúvida um dos dias mais importantes da vida de qualquer casal, Ricardo Pereira band oferece-vos um serviço de excelência e exclusivo!\n\nPara que o vosso dia conte com a melhor banda sonora e animação musical de sempre,encontrarão um repertório variado e adaptado aos vossos gostos pessoais.\n\n",
+  "termosAceitos": true
+},
+{
+  "_id": {
+    "$oid": "67910619e5196ff4727998b2"
+  },
+  "nomeEmpresa": "Wedding Guitar",
+  "localidade": "Sintra",
+  "email": "Guitar@gmail.com",
+  "telefone": "936097201",
+  "grupo": "grupo5",
+  "usuario": "Wedding Guitar",
+  "senha": "GuitarWedding",
+  "descricao": "Guitarristas com experiência em vários géneros desde a Música Clássica ao POP, passando pelo FADO, apresentam-se flexíveis a cada disposição e em entrega total na escolha dos melhores repertórios e ambientes sonoros.",
+  "termosAceitos": true
+},
+{
+  "_id": {
+    "$oid": "67910655e5196ff4727998b3"
+  },
+  "nomeEmpresa": "Resenha do Samba",
+  "localidade": "Sintra",
+  "email": "resenhadoSamba@gmail.com",
+  "telefone": "913098210",
+  "grupo": "grupo5",
+  "usuario": "Resenha do Samba",
+  "senha": "ResenhadoSamba",
+  "descricao": "O grupo Resenha do Samba é uma prova viva de que o samba é um género musical que nunca sairá de moda e perdurará para sempre no tempo. Fundado por brasileiros que escolheram Portugal como a sua residência, foram ganhando uma vida imensa através de um repertório diferenciado, onde alcançaram uma apresentação e repercussão elogiável por todas as cidades por onde passam.",
+  "termosAceitos": true
+},
+{
+  "_id": {
+    "$oid": "679106efe5196ff4727998b4"
+  },
+  "nomeEmpresa": "Classic Car Eventos",
+  "localidade": "Sintra",
+  "email": "classiccar@gmail.com",
+  "telefone": "968034915",
+  "grupo": "grupo6",
+  "usuario": "Classic Car Eventos",
+  "senha": "ClassicCar21",
+  "descricao": "Classic Car Eventos é o nome da empresa que quer ajudar-vos a ter uma chegada triunfante e requintada aos locais-chave do vosso grande dia e sem dúvida ser parte integrante do dia tão especial e feliz das vossas vidas. A sua imagem de marca é a classe e o UP que dá a cada casamento. À vossa disposição têm um fabuloso conjunto de veículos clássicos, miticos que farão as delícias de todos os vossos convidados. Fiquem a saber mais pormenores, enviando agora mesmo uma mensagem através do portal",
+  "termosAceitos": true
+},
+{
+  "_id": {
+    "$oid": "6791073be5196ff4727998b5"
+  },
+  "nomeEmpresa": "Luxury Limousine",
+  "localidade": "Lisboa",
+  "email": "luxurylimousine@gmail.com",
+  "telefone": "921494421",
+  "grupo": "grupo6",
+  "usuario": "Luxury Limousine",
+  "senha": "LuxuryLimousine25",
+  "descricao": "Luxury Limousine é sinónimo e garantia de viagens confortáveis e repletas de glamour para aquele que é o dia mais feliz e importante das vossas vidas: o dia do vosso casamento. Especializada no transporte de passageiros, esta empresa coloca à vossa disposição uma fabulosa limousine Lincoln que fará as delícias de todos os vossos convidados.",
+  "termosAceitos": true
+},
+{
+  "_id": {
+    "$oid": "67910787e5196ff4727998b6"
+  },
+  "nomeEmpresa": "Dona Bimba, a Pão de Forma",
+  "localidade": "Lisboa",
+  "email": "donabimba@gmail.com",
+  "telefone": "910092031",
+  "grupo": "grupo6",
+  "usuario": "Dona Bimba, a Pão de Forma",
+  "senha": "DonaBimba25",
+  "descricao": "A Dona Bimba foi adquirida por paixão e tornou-se num projeto familiar que surgiu após a ida a um casamento de amigos. Apercebendo-se do quanto as pessoas admiram e se identificam com as carrinhas Pão de Forma, esta família decidiu assim partilhar com todos os apaixonados a nostalgia e carisma da sua carrinha VW de 1966. Sendo uma viatura dos anos 60 e que mantêm as suas características originais da época, tem a vantagem de ser espaçosa e cómoda permitindo-vos usufruir da vossa viagem com descontração e na melhor companhia.\n\n",
+  "termosAceitos": true
+}]
